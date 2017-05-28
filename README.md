@@ -10,6 +10,7 @@ Steps in the code
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names (from features file) to name the activities in the data set
 - Changes "mean()" to "Mean"
+- Changes "std()" to "Std"
 - Removes "-"
 - Replaces prefix "f" with "frequency" and "t" with "time"
 - Replaces "BodyBody" with "Body"
