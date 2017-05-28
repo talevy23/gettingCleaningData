@@ -15,12 +15,12 @@ The mean value was calculated by grouping on the following columns
 
 Total subjects: 30
 Available labels:
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+- WALKING
+- WALKING_UPSTAIRS
+- WALKING_DOWNSTAIRS
+- SITTING
+- STANDING
+- LAYING
 
 Full list of features
 =================
