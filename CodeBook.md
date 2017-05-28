@@ -24,69 +24,69 @@ Available labels:
 
 Full list of features
 =================
-timeBodyAccMeanX
-timeBodyAccMeanY
-timeBodyAccMeanZ
-timeBodyAccStdX
-timeBodyAccStdY
-timeBodyAccStdZ
-timeGravityAccMeanX
-timeGravityAccMeanY
-timeGravityAccMeanZ
-timeGravityAccStdX
-timeGravityAccStdY
-timeGravityAccStdZ
-timeBodyAccJerkMeanX
-timeBodyAccJerkMeanY
-timeBodyAccJerkMeanZ
-timeBodyAccJerkStdX
-timeBodyAccJerkStdY
-timeBodyAccJerkStdZ
-timeBodyGyroMeanX
-timeBodyGyroMeanY
-timeBodyGyroMeanZ
-timeBodyGyroStdX
-timeBodyGyroStdY
-timeBodyGyroStdZ
-timeBodyGyroJerkMeanX
-timeBodyGyroJerkMeanY
-timeBodyGyroJerkMeanZ
-timeBodyGyroJerkStdX
-timeBodyGyroJerkStdY
-timeBodyGyroJerkStdZ
-timeBodyAccMagMean
-timeBodyAccMagStd
-timeGravityAccMagMean
-timeGravityAccMagStd
-timeBodyAccJerkMagMean
-timeBodyAccJerkMagStd
-timeBodyGyroMagMean
-timeBodyGyroMagStd
-timeBodyGyroJerkMagMean
-timeBodyGyroJerkMagStd
-frequencyBodyAccMeanX
-frequencyBodyAccMeanY
-frequencyBodyAccMeanZ
-frequencyBodyAccStdX
-frequencyBodyAccStdY
-frequencyBodyAccStdZ
-frequencyBodyAccJerkMeanX
-frequencyBodyAccJerkMeanY
-frequencyBodyAccJerkMeanZ
-frequencyBodyAccJerkStdX
-frequencyBodyAccJerkStdY
-frequencyBodyAccJerkStdZ
-frequencyBodyGyroMeanX
-frequencyBodyGyroMeanY
-frequencyBodyGyroMeanZ
-frequencyBodyGyroStdX
-frequencyBodyGyroStdY
-frequencyBodyGyroStdZ
-frequencyBodyAccMagMean
-frequencyBodyAccMagStd
-frequencyBodyAccJerkMagMean
-frequencyBodyAccJerkMagStd
-frequencyBodyGyroMagMean
-frequencyBodyGyroMagStd
-frequencyBodyGyroJerkMagMean
-frequencyBodyGyroJerkMagStd
+- timeBodyAccMeanX
+- timeBodyAccMeanY
+- timeBodyAccMeanZ
+- timeBodyAccStdX
+- timeBodyAccStdY
+- timeBodyAccStdZ
+- timeGravityAccMeanX
+- timeGravityAccMeanY
+- timeGravityAccMeanZ
+- timeGravityAccStdX
+- timeGravityAccStdY
+- timeGravityAccStdZ
+- timeBodyAccJerkMeanX
+- timeBodyAccJerkMeanY
+- timeBodyAccJerkMeanZ
+- timeBodyAccJerkStdX
+- timeBodyAccJerkStdY
+- timeBodyAccJerkStdZ
+- timeBodyGyroMeanX
+- timeBodyGyroMeanY
+- timeBodyGyroMeanZ
+- timeBodyGyroStdX
+- timeBodyGyroStdY
+- timeBodyGyroStdZ
+- timeBodyGyroJerkMeanX
+- timeBodyGyroJerkMeanY
+- timeBodyGyroJerkMeanZ
+- timeBodyGyroJerkStdX
+- timeBodyGyroJerkStdY
+- timeBodyGyroJerkStdZ
+- timeBodyAccMagMean
+- timeBodyAccMagStd
+- timeGravityAccMagMean
+- timeGravityAccMagStd
+- timeBodyAccJerkMagMean
+- timeBodyAccJerkMagStd
+- timeBodyGyroMagMean
+- timeBodyGyroMagStd
+- timeBodyGyroJerkMagMean
+- timeBodyGyroJerkMagStd
+- frequencyBodyAccMeanX
+- frequencyBodyAccMeanY
+- frequencyBodyAccMeanZ
+- frequencyBodyAccStdX
+- frequencyBodyAccStdY
+- frequencyBodyAccStdZ
+- frequencyBodyAccJerkMeanX
+- frequencyBodyAccJerkMeanY
+- frequencyBodyAccJerkMeanZ
+- frequencyBodyAccJerkStdX
+- frequencyBodyAccJerkStdY
+- frequencyBodyAccJerkStdZ
+- frequencyBodyGyroMeanX
+- frequencyBodyGyroMeanY
+- frequencyBodyGyroMeanZ
+- frequencyBodyGyroStdX
+- frequencyBodyGyroStdY
+- frequencyBodyGyroStdZ
+- frequencyBodyAccMagMean
+- frequencyBodyAccMagStd
+- frequencyBodyAccJerkMagMean
+- frequencyBodyAccJerkMagStd
+- frequencyBodyGyroMagMean
+- frequencyBodyGyroMagStd
+- frequencyBodyGyroJerkMagMean
+- frequencyBodyGyroJerkMagStd
