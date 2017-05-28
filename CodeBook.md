@@ -6,6 +6,7 @@ Features with prefix 'time' are time variables.
 Features with prefix 'frequency' are frequency variables.
 A postfix of X,Y or Z corresponds to the axis of the measure.
 All features are either 'Mean' or 'Std'.
+- Original features were normalized and bounded within [-1,1].
 
 Group Keys
 =================
