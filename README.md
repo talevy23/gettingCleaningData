@@ -2,7 +2,8 @@
 NOTES
 =================
 - The script run_analysis.R has a default value of "data/UCI HAR Dataset" for the parameter 'directory'. If the data is in a different directory, please assign the correct value.
-- Script will save a file named "talLevy.txt" with the summary for submission
+- Script will save a file named "talLevy.txt" with the summary for submission.
+
 Steps in the code
 =================
 1. Read and merge train/test sets
